@@ -1,0 +1,14 @@
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\obj\Debug\net8.0\ContactFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\obj\Debug\net8.0\ContactFile.AssemblyInfoInputs.cache
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\obj\Debug\net8.0\ContactFile.AssemblyInfo.cs
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\obj\Debug\net8.0\ContactFile.csproj.CoreCompileInputs.cache
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\bin\Debug\net8.0\ContactFile.exe
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\bin\Debug\net8.0\ContactFile.deps.json
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\bin\Debug\net8.0\ContactFile.runtimeconfig.json
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\bin\Debug\net8.0\ContactFile.dll
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\bin\Debug\net8.0\ContactFile.pdb
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\obj\Debug\net8.0\ContactFile.dll
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\obj\Debug\net8.0\refint\ContactFile.dll
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\obj\Debug\net8.0\ContactFile.pdb
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\obj\Debug\net8.0\ContactFile.genruntimeconfig.cache
+C:\Users\TechEvo Computers\source\repos\ContactFile\ContactFile\obj\Debug\net8.0\ref\ContactFile.dll
